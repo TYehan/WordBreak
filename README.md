@@ -1,7 +1,7 @@
 # Word Break - Text Transformation Tool!
 ### Convert Paragraphs into a Wordlist   
 
-<img src="https://github.com/TYehan/WordBreak/assets/85949077/f060c779-e4b8-4302-902e-621d1586ceab" alt="image" width="300" align="right">
+<img src="https://github.com/TYehan/WordBreak/assets/85949077/d1b601e6-f0e0-4d68-be7a-4b1b0b0eab72" alt="image" width="300" align="right">
 
 ###### <b>Word Break</b> is a straightforward yet powerful text processing tool designed to simplify the task of breaking paragraphs into words and generating word lists. <br>Whether you're analyzing text data, preparing content for further analysis, or simply need to extract a list of words, Word Break provides an efficient solution.
 
