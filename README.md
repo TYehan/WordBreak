@@ -25,11 +25,11 @@ These word lists can be used for brute-force attacks and for dictionary attacks.
   - ``` bash WordBreak.sh ```
 
 Always launch using bash!
-<br>
 
 ![ss](https://github.com/TYehan/WordBreak/assets/85949077/05c6fd49-f7e9-42a8-8e39-05fbb6403ef3)
 
-## Disclaimer:
+---
+### Disclaimer:
 
 Word Break is intended for legitimate and ethical purposes, such as linguistic analysis, data processing, and enhancing password security. The tool should be used in compliance with all applicable laws and ethical guidelines. Unauthorized or malicious use for activities such as hacking, unauthorized access, or any illegal activities is strictly prohibited and unethical. The developer and distributor of Word Break are not responsible for any misuse of the tool.
 
