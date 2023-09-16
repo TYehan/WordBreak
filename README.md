@@ -5,7 +5,8 @@
 
 ###### <b>Word Break</b> is a straightforward yet powerful text processing tool designed to simplify the task of breaking paragraphs into words and generating word lists. <br>Whether you're analyzing text data, preparing content for further analysis, or simply need to extract a list of words, Word Break provides an efficient solution.
 
-These word lists can be used for brute-force attacks and for dictionary attacks. Users are encouraged to use Word Break responsibly and ethically, respecting privacy, security, and the law.
+These word lists can be used for brute-force attacks and for dictionary attacks. <br>
+Users are encouraged to use Word Break responsibly and ethically, respecting privacy, security, and the law.
 
 ---
 
