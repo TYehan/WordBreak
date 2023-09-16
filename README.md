@@ -4,21 +4,25 @@ Break Paragraph to Wordlist Text Transformation Toolkit!
 <b>Word Break</b> is a straightforward yet powerful text processing tool designed to simplify the task of breaking paragraphs into words and generating word lists. <br>Whether you're analyzing text data, preparing content for further analysis, or simply need to extract a list of words, Word Break provides an efficient solution.
 
 These word lists can be used for brute-force attacks and for dictionary attacks.
---
-## How To Use
+
+---
+
 ### Generic installation
-#### CLONE
-```
-apt install git
-git clone https://github.com/OnlineHacking/WordlistPasswordGenerator
-```
+#### Installation
+###### <i>Requirements:</i>```git```
 
-### RUNNING
-```
-cd WordlistPasswordGenerator
+- Clone the repository
+  - ``` git clone https://github.com/TYehan/WordBreak.git ```
+- Go to the newly created directory
+  - ``` cd WordBreak  ```
+- Making it executable
+  - ``` chmod +x WordBreak.sh ```
+- Run it
+  - ``` ./WordBreak.sh ```
+    or
+  - ``` bash WordBreak.sh ```
 
-chmod +x *
-```
+Always launch using bash!
 
 ## Disclaimer:
 
