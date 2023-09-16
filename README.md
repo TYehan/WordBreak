@@ -26,8 +26,7 @@ These word lists can be used for brute-force attacks and for dictionary attacks.
 
 Always launch using bash!
 
-![image](https://github.com/TYehan/WordBreak/assets/85949077/40035062-54bc-4c70-afb4-70187b2cfdb2)
-
+![ss](https://github.com/TYehan/WordBreak/assets/85949077/05c6fd49-f7e9-42a8-8e39-05fbb6403ef3)
 
 ## Disclaimer:
 
