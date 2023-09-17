@@ -1,8 +1,8 @@
 # Word Break - Text Transformation Tool!
 
 ![GitHub top language](https://img.shields.io/github/languages/top/TYehan/WordBreak)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/TYehan/WordBreak)
 [![GitHub license](https://img.shields.io/github/license/TYehan/WordBreak)](https://github.com/TYehan/WordBreak/blob/main/LICENSE)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/TYehan/WordBreak)
 [![GitHub stars](https://img.shields.io/github/stars/TYehan/WordBreak.svg?style=social)](https://github.com/TYehan/WordBreak) 
 
 ### Convert Paragraphs into a Wordlist   
