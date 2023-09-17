@@ -15,15 +15,22 @@ Users are encouraged to use Word Break responsibly and ethically, respecting pri
 ###### <i>Requirements:</i>```git```
 
 - Clone the repository
-  - ``` git clone https://github.com/TYehan/WordBreak.git ```
+  - ```
+     git clone https://github.com/TYehan/WordBreak.git 
 - Go to the newly created directory
-  - ``` cd WordBreak  ```
+  - ```
+    cd WordBreak  
 - Making it executable
-  - ``` chmod +x WordBreak.sh ```
+  - ```
+    chmod +x WordBreak.sh 
 - Run it
-  - ``` ./WordBreak.sh ``` <br>
-     or
-  - ``` bash WordBreak.sh ```
+  - ```
+    ./WordBreak.sh
+    
+  or
+     
+  - ```
+    bash WordBreak.sh
 
 Always launch using bash!
 
