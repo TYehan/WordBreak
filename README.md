@@ -1,4 +1,3 @@
-<img src="https://github.com/TYehan/WordBreak/assets/85949077/d1b601e6-f0e0-4d68-be7a-4b1b0b0eab72" alt="image" width="300" align="right">
 # Word Break - Text Transformation Tool!
 ### Convert Paragraphs into a Wordlist   
 
