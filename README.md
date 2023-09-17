@@ -36,14 +36,15 @@ Users are encouraged to use Word Break responsibly and ethically, respecting pri
 
 Always launch using bash!
 
-![ss](https://github.com/TYehan/WordBreak/assets/85949077/05c6fd49-f7e9-42a8-8e39-05fbb6403ef3)
-
 ---
-
 ## ⭐ Star this Repository
 [![GitHub stars](https://img.shields.io/github/stars/TYehan/WordBreak.svg?style=social)](https://github.com/TYehan/WordBreak)
 
 If you find this project useful or valuable, please consider giving it a star! Starring the repository helps raise its visibility and lets others discover it too. Your support is greatly appreciated, and it motivates me to continue improving this project for the community. Thank you for your contribution!
+
+---
+
+![ss](https://github.com/TYehan/WordBreak/assets/85949077/05c6fd49-f7e9-42a8-8e39-05fbb6403ef3)
 
 ---
 
